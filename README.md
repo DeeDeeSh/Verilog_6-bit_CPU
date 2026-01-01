@@ -53,15 +53,5 @@ FSM-based control logic
 Instruction cycles
 
 Author:
-
-## ✅ Why this works
-- Clean name (searchable)
-- Clear architecture explanation
-- Shows **learning + correctness**
-- Recruiter-friendly
-- No fluff
-
-If you want, I can:
-- tighten it to **1-page README**
-- add **waveform images section**
-- write a **LinkedIn post caption** that links this repo 🔥
+Devansh Sharma
+BTech, Undergrad /(*-*)/
