@@ -54,4 +54,4 @@ Instruction cycles
 
 Author:
 Devansh Sharma
-BTech, Undergrad /(*-*)/
+BTech, Undergrad /(-_-)/
